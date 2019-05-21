@@ -35,4 +35,4 @@ CREATE TABLE Series (
   id INTEGER PRIMARY KEY,
   character_id INTEGER,
   book_id INTEGER
-)
+);
